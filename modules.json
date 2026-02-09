@@ -19,12 +19,12 @@
       "branch": "dev-main",
       "category": "dashboard",
       "required_core_version": ">=1.0.0"
-    }
+    },
     {
       "name": "elbambolo/senso-bestemmie",
       "title": "SensoBestemmie",
       "description": "Questo modulo serve solo per bestemmiare quando qualcosa non funziona.",
-      "repository": "https://github.com/elbambolo/senso-notes",
+      "repository": "https://github.com/elbambolo/senso-bestemmie",
       "branch": "dev-main",
       "category": "dashboard",
       "required_core_version": ">=1.0.0"
