@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "updated_at": "2026-02-09T22:30:00Z",
+  "modules": [
+    {
+      "name": "elbambolo/senso-auth",
+      "title": "SensoAuth",
+      "description": "Autenticazione JWT con gestione utenti, gruppi e permessi.",
+      "repository": "https://github.com/elbambolo/senso-auth",
+      "branch": "dev-main",
+      "category": "security",
+      "required_core_version": ">=1.0.0"
+    },
+    {
+      "name": "elbambolo/senso-notes",
+      "title": "SensoNotes",
+      "description": "Sistema di note interne per dashboard e comunicazioni rapide.",
+      "repository": "https://github.com/elbambolo/senso-notes",
+      "branch": "dev-main",
+      "category": "dashboard",
+      "required_core_version": ">=1.0.0"
+    }
+    {
+      "name": "elbambolo/senso-bestemmie",
+      "title": "SensoBestemmie",
+      "description": "Questo modulo serve solo per bestemmiare quando qualcosa non funziona.",
+      "repository": "https://github.com/elbambolo/senso-notes",
+      "branch": "dev-main",
+      "category": "dashboard",
+      "required_core_version": ">=1.0.0"
+    }
+  ]
+}
